@@ -6,3 +6,5 @@ async function main(){
 }
 
 main();
+
+//npm init -y
