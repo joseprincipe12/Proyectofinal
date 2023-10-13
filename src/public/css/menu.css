@@ -1,0 +1,83 @@
+
+/* menu.css */
+.contenido {
+    margin-top: 85px; /* Toma en cuenta la altura de tu encabezado */
+}
+
+body{
+    
+    background-color: #fff59d;
+}
+
+.contenedor {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Define columnas autoajustables */
+    gap: 20px; /* Espacio entre las tarjetas */
+   
+    padding: 10px; /* Espacio dentro del contenedor */
+  
+}
+
+.contendor-tarjetas--tarjeta {
+    width: 200px; /* Ancho de la tarjeta */
+    height: 300px; /* Alto de la tarjeta */
+    background-color: #fff; /* Fondo blanco */
+    padding: 4px; /* Relleno de 4px */
+
+    /* Espaciado entre las tarjetas */
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.contendor-tarjetas--img  {
+    width: 100%; /* Para que la imagen ocupe el 100% del contenedor */
+    height: auto; /* Para mantener la relación de aspecto */
+}
+
+.titulo {
+    font-size: 18px; /* Tamaño del título */
+    font-weight: bold; /* Texto en negrita */
+    margin-bottom: 4px; /* Espacio entre el título y el autor */
+}
+
+.contendor-tarjetas--descripcion {
+    font-size: 14px; /* Tamaño de la descripción */
+    margin-bottom: 4px; /* Espacio entre la descripción y el botón */
+    max-height: 100px; /* Altura máxima que mostrará sin cortar */
+    position: relative;
+    word-wrap: break-word; /* Dividirá las palabras si exceden la altura máxima */
+    overflow: hidden;
+}
+
+.contendor-tarjetas--descripcion::before {
+    content: "..."; /* Puntos suspensivos al final del texto cortado */
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: white; /* Fondo blanco detrás de los puntos suspensivos */
+}
+
+
+
+
+
+.contendor-tarjetas--eliminar a {
+    display: block; /* Hacer que el botón ocupe todo el ancho */
+    background-color: #dc3545; /* Color de fondo del botón */
+    color: #fff; /* Color del texto del botón */
+    padding: 5px 10px; /* Relleno del botón */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Borde redondeado */
+    text-align: center; /* Texto centrado */
+    text-decoration: none; /* Sin subrayado enlaces */
+    margin-top: auto; /* Mover el botón hacia abajo dentro de la tarjeta */
+}
+
+.contendor-tarjetas--eliminar a:hover {
+    background-color: #C82333; /* Cambiar color de fondo al pasar el mouse */
+}
+
+footer{
+    height: 100px;
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "69568eeb-e8fb-46e6-8006-8cb02ed3169e",
+        "title": "Ceviche de Pescado",
+        "autor": " María González",
+        "image": "https://www.elespectador.com/resizer/tyGJPN_YmWpagQFeXq_YYOxAKjY=/arc-anglerfish-arc2-prod-elespectador/public/2AVD5Z6Y2ZFWHETPQGCPLMNK4A.jpg",
+        "descripcion": "Un plato emblemático de la cocina peruana, el ceviche de pescado se caracteriza por su frescura y sabor cítrico.",
+        "ingredientes": "-500 g de pescado fresco (corvina o mero), cortado en cubos\r\n-Jugo de 8 limones\r\n-1 cebolla roja, cortada en juliana\r\n-1 ají amarillo, desvenado y picado en tiras\r\n-2 dientes de ajo, picados finamente\r\n-1 ramita de cilantro, picado\r\n-Sal y pimienta al gusto\r\n-Maíz choclo y camote cocido (para acompañar)",
+        "preparacion": "-En un bol grande, mezcla el pescado con el jugo de limón y déjalo reposar durante 10-15 minutos hasta que el pescado se cocine en el ácido.\r\n-Agrega la cebolla, el ají, el ajo y el cilantro al pescado. Mezcla bien.\r\n-Sazona con sal y pimienta al gusto.\r\n-Sirve el ceviche con maíz choclo y camote cocido."
+    },
+    {
+        "id": "111a76df-567f-42fe-b85b-247e6295ac0c",
+        "title": " Lomo Saltado",
+        "autor": "José Torres",
+        "image": "https://i.ytimg.com/vi/r2oGrH__hT0/maxresdefault.jpg",
+        "descripcion": " Un plato peruano de carne saltada con cebolla, tomate y papas fritas, sazonado con una deliciosa mezcla de especias.",
+        "ingredientes": "500 g de carne de res (lomo), cortada en tiras\r\n2 cebollas rojas, cortadas en tiras\r\n2 tomates, cortados en tiras\r\n2 ajíes amarillos, en rodajas (opcional)\r\n4 papas amarillas, cortadas en bastones y fritas\r\n3 cucharadas de salsa de soja\r\n2 cucharadas de vinagre de arroz\r\n2 cucharaditas de ajo picado\r\nComino, pimienta y sal al gusto\r\nAceite vegetal para freír",
+        "preparacion": "En una sartén grande a fuego alto, calienta el aceite y agrega la carne. Cocina hasta que esté dorada y reserva.\r\nEn la misma sartén, agrega más aceite y saltea la cebolla y el ajo hasta que estén tiernos.\r\nAgrega los tomates, ajíes (si se desea), salsa de soja, vinagre, comino, pimienta y sal. Cocina por unos minutos.\r\nIncorpora la carne reservada y mezcla bien.\r\nSirve el lomo saltado acompañado de papas fritas."
+    },
+    {
+        "id": "4f897dd3-f4bf-48b0-8f40-82aefa9d819f",
+        "title": "Aji de Gallina",
+        "autor": "Luisa Mendoza",
+        "image": "https://cocinalocal.cl/wp-content/uploads/2022/11/Aji-de-Gallina-Peruano.jpeg",
+        "descripcion": "Un guiso cremoso de pollo desmenuzado en una salsa de ají amarillo y nueces, servido con arroz y papas cocidas.",
+        "ingredientes": "500 g de pechuga de pollo desmenuzada\r\n4 ajíes amarillos frescos o 1 taza de ají amarillo en pasta\r\n100 g de nueces o almendras molidas\r\n2 rebanadas de pan remojadas en leche\r\n1 cebolla roja, picada en cuadritos\r\n2 dientes de ajo, picados finamente\r\n2 tazas de caldo de pollo\r\n2 huevos cocidos, en rodajas\r\nAceitunas negras y perejil picado (para decorar)\r\nAceite vegetal\r\nSal y pimienta al gusto",
+        "preparacion": "En una olla grande, calienta un poco de aceite y fría la cebolla y el ajo hasta que estén dorados.\r\nAñade el ají amarillo y cocina por unos minutos.\r\nAgrega las nueces molidas, el pan remojado y las pechugas de pollo. Cocina hasta que el pollo esté cocido.\r\nAgrega el caldo de pollo y cocina a fuego lento hasta que la salsa espese.\r\nSazona con sal y pimienta al gusto.\r\nSirve con arroz y decora con huevos cocidos, aceitunas y perejil."
+    },
+    {
+        "id": "65c271fa-0281-46ac-bff2-fdc166a1e868",
+        "title": " Rocoto Relleno",
+        "autor": "Carlos López",
+        "image": "https://perudelights.com/wp-content/uploads/2012/04/r4.jpg",
+        "descripcion": " El rocoto relleno es un plato peruano picante que consiste en pimientos rocotos rellenos de carne molida, acompañados de papas y queso.",
+        "ingredientes": "6 rocotos grandes\r\n500 g de carne molida de res o cerdo\r\n1 cebolla, picada finamente\r\n2 dientes de ajo, picados finamente\r\n2 huevos cocidos, en rodajas\r\n200 g de queso fresco, en cubos\r\n4 papas amarillas, cocidas y en rodajas\r\nAceite vegetal\r\nComino, pimienta y sal al gusto",
+        "preparacion": "6 rocotos grandes\r\n500 g de carne molida de res o cerdo\r\n1 cebolla, picada finamente\r\n2 dientes de ajo, picados finamente\r\n2 huevos cocidos, en rodajas\r\n200 g de queso fresco, en cubos\r\n4 papas amarillas, cocidas y en rodajas\r\nAceite vegetal\r\nComino, pimienta y sal al gusto"
+    },
+    {
+        "id": "6b695a2c-4d7d-4666-8e9e-a8a8d47bbff8",
+        "title": " Anticuchos",
+        "autor": "Juan Pérez",
+        "image": "https://www.comedera.com/wp-content/uploads/2022/03/Anticucho-shutterstock_185287433.jpg",
+        "descripcion": "Los anticuchos son brochetas de carne marinada, generalmente corazón de res, cocidas a la parrilla y servidas con papas y maíz.",
+        "ingredientes": "500 g de corazón de res, cortado en trozos\r\n1/2 taza de ají panca en pasta\r\n3 dientes de ajo, picados finamente\r\nComino, pimienta, y orégano al gusto\r\n1/4 taza de vinagre\r\n1/4 taza de cerveza negra\r\n4 papas amarillas, cocidas y cortadas en rodajas\r\nMaíz choclo cocido",
+        "preparacion": "En un tazón, mezcla el ají panca, ajo, comino, pimienta, orégano, vinagre y cerveza.\r\nMarina los trozos de corazón en esta mezcla durante al menos 2 horas.\r\nEnsarta los trozos de carne en brochetas y ásalos en la parrilla hasta que estén dorados y cocidos.\r\nSirve los anticuchos con papas y maíz choclo cocido."
+    },
+    {
+        "id": "8966929f-bab9-48ce-b0db-01f6e698d6ab",
+        "title": "Papa a la Huancaína",
+        "autor": "Ana Torres",
+        "image": "https://perudelights.com/wp-content/uploads/2013/07/papa-a-la-huancaina-lista-1024x768.jpg",
+        "descripcion": "Las papas a la huancaína son papas cocidas bañadas en una deliciosa salsa de ají amarillo, queso y nueces.",
+        "ingredientes": "6 papas amarillas, cocidas y peladas\r\n200 g de queso fresco\r\n6 ajíes amarillos, sin venas ni semillas\r\n1 taza de leche evaporada\r\n100 g de galletas soda\r\n2 dientes de ajo\r\nAceitunas negras y huevo cocido (para decorar)\r\nAceite vegetal\r\nSal al gusto",
+        "preparacion": "En una licuadora, mezcla los ajíes amarillos, queso fresco, leche evaporada, galletas soda y ajo hasta obtener una salsa suave.\r\nCalienta un poco de aceite en una sartén y agrega la salsa. Cocina a fuego lento hasta que la salsa espese.\r\nSazona con sal al gusto.\r\nSirve las papas cocidas en rodajas, bañadas con la salsa huancaína y decora con aceitunas negras y huevo cocido."
+    },
+    {
+        "id": "49e91f0d-e836-46be-9d34-0078512c469e",
+        "title": "Causa Limeña",
+        "autor": "Martín Rodríguez",
+        "image": "https://www.gourmet.cl/wp-content/uploads/2016/09/CAUSA-LIME%C3%91A.jpg",
+        "descripcion": "La causa limeña es un platillo frío a base de puré de papa sazonado, relleno de pollo, atún o mariscos, y decorado con huevo y aceitunas.",
+        "ingredientes": "6 papas amarillas, cocidas y peladas\r\nJugo de 2 limones\r\n2 cucharadas de ají amarillo en pasta\r\n2 cucharadas de aceite vegetal\r\n1 lata de atún o 300 g de pollo desmenuzado\r\n1 cebolla morada, en tiras finas\r\n2 huevos duros, en rodajas\r\nAceitunas negras\r\nSal y pimienta al gusto",
+        "preparacion": "Haz un puré con las papas cocidas, jugo de limón, ají amarillo, aceite, sal y pimienta.\r\nDivide el puré en dos partes iguales.\r\nEn un recipiente, coloca una capa de puré, seguida de atún o pollo, cebolla morada y aceitunas.\r\nCubre con la otra mitad del puré.\r\nDecora con huevo duro y aceitunas.\r\nRefrigera durante unas horas antes de servir."
+    }
+]

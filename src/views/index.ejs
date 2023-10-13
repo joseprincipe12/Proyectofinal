@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include('partials/header-admin') %>
+        <title>Document</title>
+        <link rel="stylesheet" href="/css/menu.css">
+        <link rel="stylesheet" href="/css/carrucel.css">
+</head>
+
+<body>
+
+    <%- include('partials/header-sin') %>
+
+        <section>
+            <div class="contenedor" style="margin-top: 85px;">
+                <% recetas.forEach(function(receta){ %>
+                    <div class="contenedor-tarjetas">
+                        <div class="contendor-tarjetas--tarjeta">
+                            <div class="titulo">
+                                <%= receta.title %> / <%= receta.autor %>
+                            </div>
+                            <a href="</new/%= receta.id%>"><img src="<%= receta.image %>" alt="" class="contendor-tarjetas--img"></a>
+                            <div class="contendor-tarjetas--descripcion">
+                                <p>
+                                    <%= receta.descripcion %>
+                                </p>
+                            </div>
+                            <div class="contendor-tarjetas--eliminar">
+                                <a href="/delete/<%= receta.id %>" class="bger">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                    <%})%>
+            </div>
+        </section>
+
+
+</body>
+
+</html>
